@@ -10,9 +10,11 @@ int sum() {
     cout << "equation (must use 'ii'): ";
     cin >> equation;
 
-    // functionality
-    for (int upperLimit < upperLimit + 1; ii++) {
-        output = equation
-        cout << "=======\n" << output "=======\n"
-    }
+        // functionality
+        for (int upperLimit < upperLimit + 1; ii++) {
+            output = equation
+            sleep(250);
+            cout << "=======\n" << output;
+        }
+    return: 0;
 }
