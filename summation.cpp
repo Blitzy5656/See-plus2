@@ -13,7 +13,7 @@ int sum() {
         // functionality
         for (int upperLimit < upperLimit + 1; ii++) {
             output = equation
-            sleep(250);
+            sleep(unsigned int 250);
             cout << "=======\n" << output;
         }
     return: 0;
